@@ -5,5 +5,7 @@ Linia D
 Linia E
 Linia F
 Linia G
+Linia G1
+Linia G2
 Linia H
 Linia I
