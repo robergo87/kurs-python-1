@@ -1,6 +1,8 @@
 Linia A
 Linia B
 Linia C
+Linia C1
+Linia C2
 Linia D
 Linia E
 Linia F
